@@ -29,4 +29,5 @@ function getEmployees(list) {
 }
 
 sortList(lister);
+
 getEmployees(lister);
